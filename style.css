@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+h2{
+    font-size:50px;
+    margin:0 0 0 10px;
+    color:blue;
+}
+.card{
+    width:60px;
+    height:90px;
+    border:1px solid;
+    float:left;
+    border-radius:7px;
+    text-align:center;
+    font-size:25px;
+    font-weight:bold;
+    line-height:90px;
+}
+#field{
+    width:440px;
+    height:380px;
+}
+.back{
+    background-image:url("card2.png");
+    background-size:cover;
+}
+#result{
+    margin:0 0 0 10px;
+    font-size:20px;
+    font-weight:bold;
+}
+.comp{
+    opacity:0;
+}
